@@ -1,0 +1,7 @@
+name: Gsy
+version: ${project.version}
+main: me.gsy.gsy.Gsy
+api-version: 1.17
+commands:
+  tplist:
+    description: /tplist XXX
